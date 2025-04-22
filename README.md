@@ -1,20 +1,20 @@
 ## Capstone-project-3
 
-##NYC Collision Analysis Report
+## NYC Collision Analysis Report
 ---
 
 ![](https://github.com/Esther-git87/Capstone-project-3/blob/main/Collisionimage.PNG)
 ---
 
 
-##Introduction:
+## Introduction:
 ---
 
 The **NYC Collision** dataset contains motor vehicle collision reports recorded by the New York City Police Department from January to August 2020. The dataset includes details on accident locations, time, contributing factors, and accident severity. This analysis aims to identify trends and insights to improve traffic safety and reduce accident occurrences.
 
 
 
-##Problem Statements
+## Problem Statements
 ---
 1.	What are the seasonal patterns in total accidents by month?
 
@@ -26,7 +26,7 @@ The **NYC Collision** dataset contains motor vehicle collision reports recorded 
 
 
 
-##Skills/ Concepts Demonstrated
+## Skills/ Concepts Demonstrated
 ---
 
 
@@ -47,7 +47,7 @@ the following power BI features were incorparated:
 -Page navigation
 
 
-##Modelling:
+## Modelling:
 ---
 
 The Model is a star schema,
@@ -57,7 +57,7 @@ there are 2-dimension tables and a fact table and the dimension tables are all j
 
 
 
-##Visualization
+## Visualization
 ---
 
 The Report comprises of 2 pages
@@ -70,7 +70,7 @@ Feature
 the two tabs are button with hovering effect and each navigates to the page with similar name.
 
 
-###Analysis
+### Analysis
 ---
 
 1. Monthly Accident Trends & Seasonal Patterns
@@ -108,12 +108,12 @@ the two tabs are button with hovering effect and each navigates to the page with
 ---
 
 
-##Conclusion:
+## Conclusion:
 
 This analysis highlights accident trends, peak risk periods, and key contributing factors in NYC. Addressing these insights with strategic measures can significantly enhance road safety and reduce collision occurrences in the city.
 
 
-##Recommendation:
+## Recommendation:
 
 1.	Enhance road safety measures on high-accident streets like Belt Parkway.
 

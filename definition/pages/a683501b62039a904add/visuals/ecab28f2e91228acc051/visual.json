@@ -1,0 +1,54 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.7.0/schema.json",
+  "name": "ecab28f2e91228acc051",
+  "position": {
+    "x": 422.244094488189,
+    "y": 20.669291338582678,
+    "z": 6000,
+    "height": 144.68503937007873,
+    "width": 838.58267716535431,
+    "tabOrder": 6000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "NYC COLLISSION REPORT",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "fontFamily": "Arial Black",
+                      "fontSize": "40pt",
+                      "color": "#711116"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
